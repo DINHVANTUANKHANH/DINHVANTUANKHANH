@@ -31,10 +31,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DINHVANTUANKHANH&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINHVANTUANKHANH&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=DINHVANTUANKHANH&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DINHVANTUANKHANH&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DINHVANTUANKHANH&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
