@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&color=00BFFF&size=30&center=true&vCenter=true&lines=안녕하세요👋;저는+DINH+VAN+TUAN+KHANH+입니다.;창의적인+개발자를+꿈꾸는+컴퓨터공학과+1학년입니다.;">
-</h1>
-
-<h2 align="center">🌟 DINH VAN TUAN KHANH 🌟</h2>
+<h2 align="center"> DINH VAN TUAN KHANH </h2>
 
 ---
 
@@ -33,7 +29,7 @@
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DINHVANTUANKHANH&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DINHVANTUANKHANH&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DINHVANTUANKHANH&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DINHVANTUANKHANH&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 ---
