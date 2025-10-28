@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&color=00BFFF&size=30&center=true&vCenter=true&lines=안녕하세요👋;DINH+VAN+TUAN+KHANH.;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&color=00BFFF&size=30&center=true&vCenter=true&lines=안녕하세요👋;DINH+VAN+TUAN+KHANH.">
 </h1>
 
----
+--- 
 
 <p align="center">
   🌱 <b>컴퓨터공학과 1학년</b> 학생이며, <b>창의적이고 혁신적인 개발자</b>가 되는 것이 목표입니다.<br>
