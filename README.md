@@ -1,4 +1,6 @@
-<h2 align="center"> DINH VAN TUAN KHANH </h2> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&color=00BFFF&size=30&center=true&vCenter=true&lines=안녕하세요👋;DINH+VAN+TUAN+KHANH.;
+</h1>
 
 ---
 
